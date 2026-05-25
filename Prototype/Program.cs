@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 public interface ICarClone
 {
-    ICarClone Clone();
+    Car Clone();
 }
 
 public class Car : ICarClone
@@ -30,7 +30,7 @@ public class Car : ICarClone
     {_color = color;}
     public void SetYear(int year)
     {_year = year;}
-    public ICarClone Clone()
+    public Car Clone()
     {return new Car(this);}
     public void Show()
     { Console.WriteLine($"{_brand} {_model}, {_year}, {_color}"); }
@@ -42,8 +42,8 @@ class Program
     {
         Car original = new Car("Toyota", "Camry", 2020, "Белый");
 
-        Car clone1 = (Car)original.Clone();
-        Car clone2 = (Car)original.Clone();
+        Car clone1 = original.Clone();
+        Car clone2 = original.Clone();
         
         clone1.SetColor("Красный");
         clone2.SetColor("Чёрный");

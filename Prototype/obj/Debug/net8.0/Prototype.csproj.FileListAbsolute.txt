@@ -12,3 +12,18 @@ C:\Users\user\Desktop\Progi\Prototype\obj\Debug\net8.0\refint\Prototype.dll
 C:\Users\user\Desktop\Progi\Prototype\obj\Debug\net8.0\Prototype.pdb
 C:\Users\user\Desktop\Progi\Prototype\obj\Debug\net8.0\Prototype.genruntimeconfig.cache
 C:\Users\user\Desktop\Progi\Prototype\obj\Debug\net8.0\ref\Prototype.dll
+C:\Users\user\Desktop\Новая папка (11)\РИАТ\Prototype\bin\Debug\net8.0\Prototype.exe
+C:\Users\user\Desktop\Новая папка (11)\РИАТ\Prototype\bin\Debug\net8.0\Prototype.deps.json
+C:\Users\user\Desktop\Новая папка (11)\РИАТ\Prototype\bin\Debug\net8.0\Prototype.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка (11)\РИАТ\Prototype\bin\Debug\net8.0\Prototype.dll
+C:\Users\user\Desktop\Новая папка (11)\РИАТ\Prototype\bin\Debug\net8.0\Prototype.pdb
+C:\Users\user\Desktop\Новая папка (11)\РИАТ\Prototype\obj\Debug\net8.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка (11)\РИАТ\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка (11)\РИАТ\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка (11)\РИАТ\Prototype\obj\Debug\net8.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (11)\РИАТ\Prototype\obj\Debug\net8.0\Prototype.sourcelink.json
+C:\Users\user\Desktop\Новая папка (11)\РИАТ\Prototype\obj\Debug\net8.0\Prototype.dll
+C:\Users\user\Desktop\Новая папка (11)\РИАТ\Prototype\obj\Debug\net8.0\refint\Prototype.dll
+C:\Users\user\Desktop\Новая папка (11)\РИАТ\Prototype\obj\Debug\net8.0\Prototype.pdb
+C:\Users\user\Desktop\Новая папка (11)\РИАТ\Prototype\obj\Debug\net8.0\Prototype.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка (11)\РИАТ\Prototype\obj\Debug\net8.0\ref\Prototype.dll
